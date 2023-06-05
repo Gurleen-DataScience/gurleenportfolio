@@ -8,7 +8,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from 'react-icons/ai';
-import { FaLinkedinIn } from 'react-icons/fa';
+import { FaLinkedinIn, FaMobileAlt } from 'react-icons/fa';
 
 function HomePage() {
   return (
